@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "inter";
+    src: url(/webfonts/Inter-Regular.ttf);
+}
+body {
+    font-family: 'Inter', sans-serif;
+    font-size:medium;
+  }
+  
+  
+  .header {
+    background: url('/Assets/img5.svg') no-repeat center center fixed;
+    width: auto;
+    height: 700px;
+    background-size: cover;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+  }
+  .header-text {
+    font-size: 24px;
+  }
+  .header-button {
+    margin-top: 10px;
+  }
+  
+  .overlay-container {
+    position: relative;
+  }
+
+  .background-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .overlay-image {
+    position: absolute;
+top: 120;
+   
+    right: 30px;
+    bottom: 5px;
+    width: 50%;
+    height: auto;
+    display: block;
+  
+  }
+
+
+
+
+  /* ........... */
+
+
+
+
+  
